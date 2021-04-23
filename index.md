@@ -3,7 +3,7 @@ title: /
 layout: home
 permalink: /
 ---
-![2314793_0](https://user-images.githubusercontent.com/82863980/115798543-e2d14500-a3ac-11eb-9ae4-022f06c82303.jpg)
+![2314793_0](https://user-images.githubusercontent.com/82863980/115798543-e2d14500-a3ac-11eb-9ae4-022f06c82303.jpg =500x)
 
 # Lorem ipsum
 
